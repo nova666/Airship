@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FINAL_STEP_UNITY",
+"dataUrl": "Built for Web.data.unityweb",
+"asmCodeUrl": "Built for Web.asm.code.unityweb",
+"asmMemoryUrl": "Built for Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Built for Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
